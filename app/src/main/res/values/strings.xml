@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomOpen</string>
+    <string name="btn_choose">选择图片</string>
+    <string name="btn_deals">处理</string>
+</resources>
