@@ -74,10 +74,10 @@ _注意：_  上面的set（ OpenCV_DIR E:/Source/OpenCV-android-sdk/sdk/native/
 
          最后还需要在dependencies添加 
         implementation fileTree(dir: "$buildDir/native-libs", include: 'native-libs.jar')
-_提示 :_到这里OpenCV的环境已经配置完了，下面我们来写一个简单的DEMO验证一下。
+_提示 :_ 到这里OpenCV的环境已经配置完了，下面我们来写一个简单的DEMO验证一下。
 
-##简单DEMO验证
-_注意 :_本demo只是简单验证，6.0的运行时权限等等没有进行配置。
+## 简单DEMO验证
+_注意 :_ 本demo只是简单验证，6.0的运行时权限等等没有进行配置。
   + 新建MainActivity
 
         public class MainActivity extends AppCompatActivity implements 
