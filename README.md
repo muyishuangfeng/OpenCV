@@ -264,3 +264,6 @@ _注意 :_ 本demo只是简单验证，6.0的运行时权限等等没有进行�
  +  经过两天的折腾，遇到了各种Bug，终于搞定的，除了这种方式添加OpenCV之外还有添加.mk文件的方式等等。这里就不多做介绍了，想了解的看官可以去自行搜索。
  + 感谢gloomyfish的[OpenCV On Android开发 - Android Studio上环境配置](http://blog.csdn.net/jia20003/article/details/53126321)
  + [github目录](https://github.com/muyishuangfeng/OpenCV)
+ + [简书](https://www.jianshu.com/p/f65788d7dc25)
+ + [掘金](https://juejin.im/post/5a991c146fb9a028b54755e2)
+ 
